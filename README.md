@@ -26,7 +26,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mujeebrahiman2000@gmail.com">
+  <a href="sharmashubham6822@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/999-10-5-mujeeb-rahiman-/" target="_blank">
