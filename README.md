@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/shubham.jsx?igsh=mw5wnhq0ohd1dw5zbq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shubham's Twitter profile" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shubham-sharma-b84090227/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubham's Linkedin profile" height="30" width="40" /></a>
 </p>
-Looking to collaborate on a project, need a freelance React/Frontend developer, or just want to chat about tech? Feel free to reach out! I'm open to new opportunities and always excited to work on innovative projects.
+Looking to collaborate on a project, need a freelance Full-Stack developer, or just want to chat about tech? Feel free to reach out! I'm open to new opportunities and always excited to work on innovative projects.
 <br/>
  
 <h2>:hammer_and_pick: Languages-Frameworks-Tools :hammer_and_pick:</h2>
