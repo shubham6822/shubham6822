@@ -1,4 +1,4 @@
-# <strong>Shubham Sharma </strong>
+# <strong>Shubham Sharma</strong>
 
 ##  Hi, I am a React/Frontend Developer 👩‍💻
 
