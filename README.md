@@ -1,6 +1,6 @@
 # <strong>Shubham Sharma</strong>
 
-##  Hi, I am a React/Frontend Developer 👩‍💻
+##  Hi, I am a NextJS/Frontend Developer 👩‍💻
 
 🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components, React/Redux, TypeScript, StoryBook, CSS, Material UI5, Git, Gitlab, Figma & Jenkins.Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 14, Nodejs, SASS and MongoDB too.
 
