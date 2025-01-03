@@ -4,9 +4,9 @@
 
 🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components, React/Redux, TypeScript, StoryBook, CSS, Material UI5, Git, Gitlab, Figma & Jenkins.Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 14, Nodejs, SASS and MongoDB too.
 
-👯 I like to write about programming on my <strong>Tech Blog(DEV)</strong> & Twitter, attend <strong>Meet-ups & Conferences</strong> & meet like minded people. In my leisure hours, you will find me <strong>mentoring/teaching</strong> few beginners in Frontend Development.
+👯 I like to write about programming on my <strong>Tech Blog(Meduim)</strong> & Twitter, attend <strong>Meet-ups & Conferences</strong> & meet like minded people. In my leisure hours, you will find me <strong>mentoring/teaching</strong> few beginners in Frontend Development.
 
-⚡ Fun fact: I am a huge <strong>writing enthusiast</strong>. I like to write Tech Blogs, Travel Blogs and read self-help books.Started my first Blog in 2011 even before when AI & Vlogs became the trend. Pursuing content-writing since school time. <strong>Creating websites</strong> and writing my own content on it is my another hobby.😉
+⚡ Fun fact: I am a huge <strong>writing enthusiast</strong>. I like to write Tech Blogs, Travel Blogs and read self-help books. Pursuing content-writing since school time. <strong>Creating websites</strong> and writing my own content on it is my another hobby.😉
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
