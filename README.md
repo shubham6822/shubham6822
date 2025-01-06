@@ -14,7 +14,7 @@
 </p>
 Looking to collaborate on a project, need a freelance Full-Stack developer, or just want to chat about tech? Feel free to reach out! I'm open to new opportunities and always excited to work on innovative projects.
 <br/>
-Portfolio:-<a href="https://shubhamsharma-portfolio.vercel.app/" target="_blank" >Portfoilo</a>
+<a href="https://shubhamsharma-portfolio.vercel.app/" target="_blank" >Portfoilo</a>
 <br/>
  
 <h2>:hammer_and_pick: Languages-Frameworks-Tools :hammer_and_pick:</h2>
