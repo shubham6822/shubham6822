@@ -6,6 +6,8 @@
 
 ⚡ Fun fact: I am a huge <strong>writing enthusiast</strong>. I like to write Tech Blogs <a href="https://medium.com/@sharmashubham6822" target="_blank" >Meduim</a>  Travel Blogs and read self-help books. Pursuing content-writing since school time. <strong>Creating websites</strong> and writing my own content on it is my another hobby.😉
 
+ <strong>Currently,I am working on a making a editor which helps developer to make pixel prefect UI very fast</strong>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
  
