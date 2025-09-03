@@ -1,6 +1,19 @@
-##  Hi, I am a NextJS/Frontend Developer 👩‍💻
+##  Hi, I am a Software Developer + AI Engineer 👩‍💻
 
-🔭 Highlights: Currently I am working as a full-time <strong>React/Frontend Developer</strong>. I am using Styled Components, React/Redux, TypeScript, StoryBook, CSS, Material UI5, Git, Gitlab, Figma & Jenkins.Apart from the above skills, I like to create applications using Tailwind CSS, NextJS 14, Nodejs, SASS and MongoDB too.
+🔭 **Highlights:**  
+Currently working as a **Junior Software Developer + AI Engineer**.  
+I specialize in **building modern web applications** and **AI-powered solutions**. My expertise spans:
+
+- **Frontend:** Next.js, React, Tailwind CSS, Redux, Material UI, Framer Motion, GSAP  
+- **Backend:** Node.js, Express.js  
+- **AI & Automation:** LangChain, MCP, OpenAI API  
+- **Cloud & Databases:** AWS, Google Cloud, Firebase, MongoDB  
+- **DevOps:** CI/CD with AWS Amplify, Git, GitHub, GitLab  
+
+💡 I am passionate about **creating intelligent systems** that automate workflows, boost productivity, and deliver seamless user experiences.
+
+---
+
 
 👯 I like to write about programming on my <strong>Tech Blog(Meduim)</strong> & Twitter, attend <strong>Meet-ups & Conferences</strong> & meet like minded people. In my leisure hours, you will find me <strong>mentoring/teaching</strong> few beginners in Frontend Development.
 
@@ -27,5 +40,8 @@ Looking to collaborate on a project, need a freelance Full-Stack developer, or j
 </div>
 
 <br/>
+---
 
+💌 Looking to collaborate on exciting projects, hire a **Full-Stack Developer**, or chat about **AI & Web Dev**?  
+Feel free to **[reach out via email](mailto:sharmashubham6822@gmail.com)** or connect on LinkedIn!
 </div>
