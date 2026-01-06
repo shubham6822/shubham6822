@@ -32,7 +32,7 @@ Looking to collaborate on a project, need a freelance Full-Stack developer, or j
 </div>
 
 <br/>
----
+
 
 💌 Looking to collaborate on exciting projects, hire a **Full-Stack Developer**, or chat about **AI & Web Dev**?  
 Feel free to **[reach out via email](mailto:sharmashubham6822@gmail.com)** or connect on LinkedIn!
