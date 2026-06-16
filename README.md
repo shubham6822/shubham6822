@@ -1,7 +1,7 @@
-##  Hi, I am a Software Developer + AI Engineer 👩‍💻
+##  Hi, I am a Software Developer 👩‍💻
 
 🔭 **Highlights:**  
-Currently working as a **Junior Software Developer + AI Engineer**.  
+Currently working as a **Software Developer**.  
 I specialise in **building modern web applications** and **AI-powered solutions**. My expertise spans:
 
 - **Frontend:** Next.js, React, Tailwind CSS, Redux, Material UI, Framer Motion, GSAP  
